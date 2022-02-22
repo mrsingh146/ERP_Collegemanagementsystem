@@ -1,6 +1,7 @@
 # ERP_Collegemanagementsystem
 
-Project Description:
+# Project Description:
+
 College Erp application is web based Single page Application project, which is implemented to provide some of the features to the users
 
 like admin, employees,students to interact with the application and allowing the users to
@@ -11,7 +12,7 @@ In this project Angular is used for frontend.
 
 Spring Boot is used for Backend.
 
-Technologies Used:
+# Technologies Used:
 1.JDK 1.8
 
 2.oracle 11g
@@ -25,7 +26,7 @@ Technologies Used:
 6.Tomcat Server 9.0
 
 Advanced rest client
-Features:
+# Features:
 Web Application App is providing some the features to the users such as
 
 1.Admin Module
@@ -66,7 +67,7 @@ iii) sign in
 
 iv) logout
 
-TO DO LIST:
+# TO DO LIST:
 some of the features which are going to update soon are
 
 1.Single Page Application
@@ -75,15 +76,15 @@ some of the features which are going to update soon are
 
 3.Srping Boot and microservices for backend
 
-Getting Started:
+# Getting Started:
 git clone https://github.com/mrsingh146/ERP_Collegemanagementsystem.git
 
 cd my-project
 
-usage:
+# usage:
 After project come reside into your local system
 
 run the erp.java in eclipse, and use the cmd to run the frontend angular after residing on project path enter ng serve command you can able to use the App
 
-Contributors:
+# Contributors:
 Harshpreet Singh
