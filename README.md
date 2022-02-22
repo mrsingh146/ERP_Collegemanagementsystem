@@ -88,3 +88,4 @@ run the erp.java in eclipse, and use the cmd to run the frontend angular after r
 
 # Contributors:
 Harshpreet Singh
+[ERP_College_Mangement_System-master.zip](https://github.com/mrsingh146/ERP_Collegemanagementsystem/files/8116231/ERP_College_Mangement_System-master.zip)
